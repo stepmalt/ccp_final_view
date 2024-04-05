@@ -1,1 +1,2 @@
-# ccp_final_view
+# ccp_starter_code
+Starter Code for your CCP 
